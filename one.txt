@@ -1,6 +1,6 @@
 stage 1 story 1
 stage 2 story 2
-stage 3 
-stage 4
-stage 5
-stage 6
+stage 3 story 2
+stage 4story 2
+stage 5story 2
+stage 6story 2
